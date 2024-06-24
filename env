@@ -1,0 +1,2 @@
+MONGODB_URI=mongodb+srv://lms_task:RRpe2FGi9XBtI3eB@cluster0.nowg9nv.mongodb.net/
+JWT_SECRET="lms@2024"
